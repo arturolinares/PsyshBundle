@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "psy/psysh": "~0.3",
+        "psy/psysh": "~0.8",
         "symfony/expression-language": "^3.2",
         "symfony/framework-bundle": "~2.3|~3.0"
     },
